@@ -1,3 +1,3 @@
 # nodepad
-A simple Notepad application build using Java.swing and java.awt
-#priyanshuRawat
+A simple Notepad application built using Java.swing and java.awt
+
